@@ -17,6 +17,10 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    NSString *fullURL = @"https://mylakerlink.socc.edu/go";
+    NSURL *url = [NSURL URLWithString:fullURL];
+    NSURLRequest *requestOBJ = [NSURLRequest requestWithURL:url];
+    [_viewWeb loadRequest:requestOBJ];
 }
 
 - (void)didReceiveMemoryWarning {
