@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "837041401CE4069D0058DF24"
-               BuildableName = "myLakerLinkGO.app"
-               BlueprintName = "myLakerLinkGO"
-               ReferencedContainer = "container:myLakerLinkGO.xcodeproj">
+               BuildableName = "myLakerLink.app"
+               BlueprintName = "myLakerLink"
+               ReferencedContainer = "container:myLakerLink.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,34 +28,14 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "837041591CE4069D0058DF24"
-               BuildableName = "myLakerLinkGOTests.xctest"
-               BlueprintName = "myLakerLinkGOTests"
-               ReferencedContainer = "container:myLakerLinkGO.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "837041641CE4069D0058DF24"
-               BuildableName = "myLakerLinkGOUITests.xctest"
-               BlueprintName = "myLakerLinkGOUITests"
-               ReferencedContainer = "container:myLakerLinkGO.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "837041401CE4069D0058DF24"
-            BuildableName = "myLakerLinkGO.app"
-            BlueprintName = "myLakerLinkGO"
-            ReferencedContainer = "container:myLakerLinkGO.xcodeproj">
+            BuildableName = "myLakerLink.app"
+            BlueprintName = "myLakerLink"
+            ReferencedContainer = "container:myLakerLink.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "837041401CE4069D0058DF24"
-            BuildableName = "myLakerLinkGO.app"
-            BlueprintName = "myLakerLinkGO"
-            ReferencedContainer = "container:myLakerLinkGO.xcodeproj">
+            BuildableName = "myLakerLink.app"
+            BlueprintName = "myLakerLink"
+            ReferencedContainer = "container:myLakerLink.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "837041401CE4069D0058DF24"
-            BuildableName = "myLakerLinkGO.app"
-            BlueprintName = "myLakerLinkGO"
-            ReferencedContainer = "container:myLakerLinkGO.xcodeproj">
+            BuildableName = "myLakerLink.app"
+            BlueprintName = "myLakerLink"
+            ReferencedContainer = "container:myLakerLink.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
